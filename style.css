@@ -1109,3 +1109,9 @@ h4 {
 .citation > p {
     font-style: italic !important;
 }
+
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
