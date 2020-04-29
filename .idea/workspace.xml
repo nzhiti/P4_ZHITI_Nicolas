@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93024915-de6c-4399-94bc-eb7f8b53e45d" name="Default Changelist" comment="" />
+    <list default="true" id="93024915-de6c-4399-94bc-eb7f8b53e45d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-de-presentation.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/la-chouette-agence-banniere.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +26,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1b4Sa9FdfNx9NyYzH4zsghFtzgC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Web développement" />
   </component>
@@ -33,7 +52,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587889934290</updated>
-      <workItem from="1587889937347" duration="1771000" />
+      <workItem from="1587889937347" duration="7666000" />
+      <workItem from="1587977087737" duration="11000" />
+      <workItem from="1587980454240" duration="599000" />
+      <workItem from="1588061085285" duration="11449000" />
+      <workItem from="1588146719374" duration="2186000" />
     </task>
     <servers />
   </component>

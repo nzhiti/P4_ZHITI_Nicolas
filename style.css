@@ -709,7 +709,7 @@ h2 {
     line-height: 1.4em;
 }
 
-h3 {
+h2 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
@@ -1039,4 +1039,73 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+#agency-resume > p {
+    color: #575757;
+}
+
+@media (max-width: 575px) {
+    #agency-resume > p {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 576px) {
+    #agency-resume > p {
+        font-size: 18px;
+    }
+}
+
+
+@media (min-width: 768px) {
+    #agency-resume > p {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 992px) {
+    #agency-resume > p {
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #agency-resume > p {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 575px) {
+    .citation {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 576px) {
+    .citation {
+        font-size: 17px;
+    }
+}
+
+@media (min-width: 768px) {
+    .citation {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 992px) {
+    .citation {
+        font-size: 19px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .citation {
+        font-size: 20px;
+    }
+}
+
+.citation > p {
+    font-style: italic !important;
 }
