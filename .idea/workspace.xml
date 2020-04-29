@@ -3,7 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="93024915-de6c-4399-94bc-eb7f8b53e45d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/et-line.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/et-line.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/blocs.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/blocs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/formHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/formHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gmaps.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/gmaps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-2.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-2.1.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.touchSwipe.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.touchSwipe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +57,7 @@
       <workItem from="1587980454240" duration="599000" />
       <workItem from="1588061085285" duration="11449000" />
       <workItem from="1588146719374" duration="4407000" />
+      <workItem from="1588155503838" duration="485000" />
     </task>
     <servers />
   </component>
